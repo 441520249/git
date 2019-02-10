@@ -7,8 +7,11 @@ Git是一个开源的分布式版本控制系统，可以有效、高速的处�
 下载地址：https://git-for-windows.github.io
 
 配置个人信息（名字与邮箱）
+
 使用Git的第一件事就是设置你的名字和email,这些就是你在提交commit时的签名
+
 git config --global user.name "Your Name"
+
 git config --global user.email "email@example.com"
 
 查看是否配置成功，用命名git config -l
