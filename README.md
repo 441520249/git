@@ -1,9 +1,9 @@
 # git
 
-**Git是一个开源的分布式版本控制系统，可以有效、高速的处理从很小到非常大的项目版本管理分布式版本控制系统
+# Git是一个开源的分布式版本控制系统，可以有效、高速的处理从很小到非常大的项目版本管理分布式版本控制系统
 
 
-**安装与配置
+# 安装与配置
 
 下载与安装
 下载地址：https://git-for-windows.github.io
@@ -16,7 +16,7 @@ git config --global user.email "email@example.com"
 查看是否配置成功，用命名git config -l
 
 
-**git的使用（命令行）
+# git的使用（命令行）
 
 # 创建本地仓库
 git init：把当前目录变成一个git仓库，并自动创建master分支
@@ -46,7 +46,7 @@ Git有三大区：工作区、暂存区、版本库
 用status查看仓库会有几种状态：untracked、unstaged、uncommitted 
 
 
-**git远程仓库
+# git远程仓库
 
 # 注册登录
 github(国外):https://github.com/
