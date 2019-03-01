@@ -1,10 +1,10 @@
 # git
-Git是一个开源的分布式版本控制系统，可以有效、高速的处理从很小到非常大的项目版本管理分布式版本控制系统
+Git是一个开源的分布式版本管理工具，可以有效、高速的处理从很小到非常大的项目版本管理分布式版本控制系统
 
 # 安装与配置
 
 下载与安装
-下载地址：https://git-for-windows.github.io
+下载地址：https://git-for-windows.github.io [下载](https://git-scm.com/downloads)
 
 配置个人信息（名字与邮箱）
 
